@@ -3,4 +3,5 @@ mode: testing
 mx: amir.mx.cloudflare.net
 mx: linda.mx.cloudflare.net
 mx: isaac.mx.cloudflare.net
+mx: *.mx.cloudflare.net
 max_age: 604800
